@@ -1,4 +1,4 @@
-package com.designpattern.behavioral;
+package com.designpattern.behavioral.chainofResponse;
 
 public class Main {
 
