@@ -17,7 +17,7 @@ public class Singleton {
     }
 
     public static void main(String[] args) {
-        Singleton singleton = new Singleton();
+        //Singleton singleton = new Singleton();
         Singleton singleton1 = Singleton.getInstance();
     }
 }
